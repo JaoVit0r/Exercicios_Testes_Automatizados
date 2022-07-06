@@ -1,0 +1,14 @@
+{
+  "name": "exercicios_testes_automatizados_js",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --watchAll --coverage"
+  },
+  "author": "João Vitor Nunes dos Santos",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^28.1.2"
+  }
+}
